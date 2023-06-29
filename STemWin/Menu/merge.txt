@@ -1,0 +1,14 @@
+
+
+
+__HAL_UART_ENABLE_IT(&huart4,UART_IT_IDLE);
+
+
+
+SERVICE_DATAMANAGE_RECOVER_FACTORY
+
+
+
+	
+	
+	
